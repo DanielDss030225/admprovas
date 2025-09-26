@@ -1,8 +1,0 @@
-{
-  "compileralternatives": {
-    "baseUrl": "./",
-    "paths": {
-      "@/*": ["src/*"]
-    }
-  }
-}
